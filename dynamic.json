@@ -1,0 +1,43 @@
+{
+  "profile":{
+    "img":"soop.png",
+    "name":"poojitha",
+    "roll":"1212",
+    "place":"guntur",
+    "gmail":"ppp@gmail.com"
+  },
+  "career":{
+    "info":"i want to seek a job for reputed companey to explore my thougths"
+  },
+  "education":[
+    {
+    "degree":"b tech",
+    "institute":"vignan",
+    "per":"80%",
+    "yop":"2021"
+  },
+  {
+  "degree":"intermediate",
+  "institute":"vignan",
+  "per":"80%",
+  "yop":"2015_2017"
+},
+{
+"degree":"ssc",
+"institute":"vignan",
+"per":"80%",
+"yop":"2014_2015"
+}
+],
+"languages":[
+  {
+    "info":"english"
+  },
+  {
+    "info":"telugu"
+  },
+  {
+    "info":"hindi"
+  }
+]
+}
